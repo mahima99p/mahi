@@ -1,1 +1,12 @@
 Hii! it's mahima here
+i am in osoc workshop
+
+cat >>m.txt
+i am in osoc workshop
+
+
+
+
+
+
+cat m.txt
